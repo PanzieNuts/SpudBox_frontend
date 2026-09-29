@@ -1,0 +1,10 @@
+@tailwind components;
+@import './tooltip.css';
+
+#app {
+  @apply h-full w-full;
+}
+
+.button {
+  @apply bg-blue-500
+}
